@@ -1,0 +1,7 @@
+### LA SALIDA DE LA CONSOLA 
+
+9 -3 1 0x7ffd4e7a1740
+-7 9 6 0x55d1a5c41e70
+5 -7 2 0x7ffd4e7a1744
+5 0x55d1a5c41e70 9 -3 -7 0x7ffd4e7a173c 5
+0x7ffd4e7a173c0x7ffd4e7a1748 0x7ffd4e7a1740 0x7ffd4e7a1744 0x7ffd4e7a1750
